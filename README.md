@@ -1,4 +1,4 @@
-# AI Talent Workshop - Day 2: Data Pre-processing and Feature Engineering
+# AI Talent Workshop - Data Pre-processing and Feature Engineering
 
 This project is part of the AI Talent Workshop and focuses on practical data wrangling skills, including data pre-processing and feature engineering using Python and pandas.
 
@@ -8,6 +8,8 @@ These two workshops will guide you through using the Pandas library for a real-w
 
 ## Project Structure
 
+- **AI_talent_workshop_challenge.ipynb**: Introduction to the workshop.
+- **AI_talent_workshop_part1.ipynb**: Load from multiple sources using Pandas and merge into a unified DataFrame.
 - **AI_talent_workshop_part2.ipynb**: Main notebook for data loading, cleaning, and feature engineering tasks.
 - **candidate_profiles.csv**: Candidate profile data.
 - **technical_assessments.csv**: Technical assessment results.
@@ -24,7 +26,7 @@ These two workshops will guide you through using the Pandas library for a real-w
 
 1. Clone the repository or download the files.
 2. Ensure you have Python 3.x and pandas installed.
-3. Run the notebook `AI_talent_workshop_part2.ipynb` in Jupyter or VS Code.
+3. Run the notebooks `AI_talent_workshop_part1.ipynb` and `AI_talent_workshop_part2.ipynb` in Jupyter or VS Code.
 
 ## Requirements
 
